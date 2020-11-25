@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uploads-files-2482711-Aluprof_MB-86EI_007_M-0264.obj-eb336bdb89a949c6f3d9c283216373d2.mesh"
+
+[deps]
+
+files=[ "res://.import/uploads-files-2482711-Aluprof_MB-86EI_007_M-0264.obj-eb336bdb89a949c6f3d9c283216373d2.mesh" ]
+
+source_file="res://uploads-files-2482711-Aluprof_MB-86EI_007_M-0264.obj"
+dest_files=[ "res://.import/uploads-files-2482711-Aluprof_MB-86EI_007_M-0264.obj-eb336bdb89a949c6f3d9c283216373d2.mesh", "res://.import/uploads-files-2482711-Aluprof_MB-86EI_007_M-0264.obj-eb336bdb89a949c6f3d9c283216373d2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
